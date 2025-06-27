@@ -1,0 +1,16 @@
+CustomerID,Age ,MonthlySpend,ContractType,Churn
+1,22,100,Monthy,1
+2,20,1120,Monthy,0
+3,21,NaN,Yearly,0
+4,22,1100,Monthy,1
+5,NaN,1500,Yearly,1
+6,23,1100,Yearly,0
+7,NaN,1200,Monthy,1
+8,24,5001,Monthy,1
+9,22,1000,NaN,0
+10,21,1001,Monthy,0
+11,23,1000,Monthy,1
+12,23,NaN,Yearly,0
+13,21,1200,Monthy,1
+14,22,1500,Yearly,1
+15,22,1300,NaN,0
