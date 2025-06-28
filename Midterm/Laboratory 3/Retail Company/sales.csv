@@ -1,0 +1,82 @@
+sales_id,"customer_id
+",products,quantity,sales_date
+1,1,Strawberries - California,10,2025-06-03
+2,2,Water - Spring Water 500ml,1,2025-06-06
+3,3,,1,2025-06-09
+4,4,"Veal - Inside, Choice",4,2025-06-16
+5,5,Strawberries - California,,2025-06-05
+6,6,,7,2025-06-01
+7,49,Strawberries - California,7,2025-06-17
+8,8,Strawberries - California,10,2025-06-03
+9,9,Strawberries - California,3,2025-06-03
+10,10,Water - Spring Water 500ml,10,2025-06-10
+11,49,Plastic Arrow Stir Stick,10,2025-06-19
+12,49,Water - Spring Water 500ml,4,2025-06-01
+13,13,Strawberries - California,3,2025-06-08
+14,21,Strawberries - California,7,2025-06-07
+15,15,"Cup - 6oz, Foam",5,2025-06-06
+16,16,Strawberries - California,3,2025-06-17
+17,17,"Cup - 6oz, Foam",4,2025-06-17
+18,18,Water - Spring Water 500ml,1,2025-06-05
+19,19,Strawberries - California,10,2025-06-04
+20,20,Strawberries - California,1,2025-06-20
+21,21,,1,2025-06-02
+22,22,Water - Spring Water 500ml,7,2025-06-03
+23,23,"Cup - 6oz, Foam",6,2025-06-08
+24,24,,7,2025-06-03
+25,25,Water - Spring Water 500ml,1,2025-06-03
+26,26,Pepsi - 600ml,1,2025-06-05
+27,27,Pepsi - 600ml,9,2025-06-13
+28,28,Water - Spring Water 500ml,3,2025-06-02
+29,29,"Cup - 6oz, Foam",8,2025-06-05
+30,21,Water - Spring Water 500ml,8,2025-06-16
+31,31,Pepsi - 600ml,7,2025-06-16
+32,32,"Cup - 6oz, Foam",8,2025-06-15
+33,33,"Cup - 6oz, Foam",4,2025-06-06
+34,34,Onions - Cooking,3,2025-06-11
+35,35,Pepsi - 600ml,6,2025-06-21
+36,36,Pepsi - 600ml,5,2025-06-07
+37,37,Muffin Carrot - Individual,1,2025-06-13
+38,38,"Cup - 6oz, Foam",10,2025-06-11
+39,39,"Cup - 6oz, Foam",9,2025-06-02
+40,21,"Cup - 6oz, Foam",8,2025-06-18
+41,41,"Cup - 6oz, Foam",6,2025-06-13
+42,42,"Cup - 6oz, Foam",8,2025-06-07
+43,43,"Cup - 6oz, Foam",1,2025-06-04
+44,44,Nescafe - Frothy French Vanilla,8,2025-06-21
+45,45,Nescafe - Frothy French Vanilla,5,2025-06-01
+46,46,"Cup - 6oz, Foam",2,2025-06-03
+47,47,Pepsi - 600ml,9,2025-06-06
+48,48,"Cup - 6oz, Foam",6,2025-06-14
+49,49,"Cup - 6oz, Foam",10,2025-06-09
+50,50,Pepsi - 600ml,6,2025-06-12
+51,51,Nescafe - Frothy French Vanilla,7,2025-06-15
+52,52,Nescafe - Frothy French Vanilla,10,2025-06-16
+53,21,Pepsi - 600ml,3,2025-06-12
+54,54,"Liqueur Banana, Ramazzotti",3,2025-06-12
+55,55,,9,2025-06-19
+56,56,Wine - Casablanca Valley,2,2025-06-13
+57,57,Nescafe - Frothy French Vanilla,8,2025-06-19
+58,58,Muffin Carrot - Individual,6,2025-06-21
+59,59,Pepsi - 600ml,10,2025-06-19
+60,60,Pepsi - 600ml,8,2025-06-12
+61,61,Pepsi - 600ml,1,2025-06-19
+62,62,Pepsi - 600ml,1,2025-06-01
+63,63,Sugar - Monocystal / Rock,4,2025-06-13
+64,64,"Cup - 6oz, Foam",2,2025-06-15
+65,65,"Cup - 6oz, Foam",2,2025-06-18
+66,66,Sugar - Monocystal / Rock,8,2025-06-02
+67,67,Muffin Carrot - Individual,3,2025-06-11
+68,68,Cherries - Frozen,8,2025-06-10
+69,69,Muffin Carrot - Individual,9,2025-06-02
+70,70,Sugar - Monocystal / Rock,1,2025-06-04
+71,71,Muffin Carrot - Individual,3,2025-06-14
+72,72,Muffin Carrot - Individual,4,2025-06-04
+73,49,Pepsi - 600ml,8,2025-06-10
+74,74,Muffin Carrot - Individual,7,2025-06-16
+75,75,"Cup - 6oz, Foam",5,2025-06-15
+76,76,Muffin Carrot - Individual,9,2025-06-06
+77,77,Muffin Carrot - Individual,1,2025-06-21
+78,49,Muffin Carrot - Individual,3,2025-06-20
+79,79,Pepsi - 600ml,6,2025-06-18
+80,80,Muffin Carrot - Individual,1,2025-06-03
