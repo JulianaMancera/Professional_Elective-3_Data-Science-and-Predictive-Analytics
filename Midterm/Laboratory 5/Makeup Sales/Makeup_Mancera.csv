@@ -1,0 +1,37 @@
+Month,Category,Region,Sales
+Jan,Lip stick,North,6132
+Jan,Lip stick,South,5658
+Jan,Mascarra,East,
+Jan,Foundation,North,4232
+Jan,Foundation,South,3032
+Jan,Foundation,East,5532
+Feb,Lip stick,North,5704
+Feb,Lip stick,South,
+Feb,Mascarra,East,5280
+Feb,Foundation,South,6321
+Feb,Foundation,East,
+Feb,Foundation,North,4321
+Mar,Lip stick,South,5310
+Mar,Mascarra,North,4175
+Mar,Foundation,East,4200
+Mar,Mascarra,South,6321
+Mar,Foundation,North,4330
+Mar,Foundation,East,
+Apr,Lip stick,East,6532
+Apr,Mascarra,North,
+Apr,Foundation,South,5310
+Apr,Lip stick,South,3032
+Apr,Mascarra,South,3395
+Apr,Foundation,South,4175
+May,Lip stick,North,5270
+May,Mascarra,South,6280
+May,Lip stick,North,4321
+May,Mascarra,South,6280
+May,Foundation,East,
+May,Foundation,East,4200
+Jun,Mascarra,South,4330
+Jun,Foundation,North,5240
+Jun,Lip stick,East,4200
+Jun,Lip stick,North,6132
+Jun,Foundation,South,
+Jun,Mascarra,East,4330
